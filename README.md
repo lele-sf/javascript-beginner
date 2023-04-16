@@ -1,11 +1,11 @@
 # Projects for JavaScript: From First Steps to Professional
 This repository contains the solutions for the following projects from the JavaScript: From First Steps to Professional course on Frontend Masters:
 
-1. [TicTacToe](https://lele-sf.github.io/intro-web-dev/blog/): A simple blog website built using HTML and CSS.
+1. [TicTacToe](https://lele-sf.github.io/javascript-beginner/tictactoe/): A simple blog website built using HTML and CSS.
 
-2. [Quiz.js](https://lele-sf.github.io/intro-web-dev/newspaper-layout/): A responsive layout for a newspaper website built using HTML and CSS.
+2. [Quiz.js](https://lele-sf.github.io/javascript-beginner/quiz-js/): A responsive layout for a newspaper website built using HTML and CSS.
 
-3. [Doggo-fetch](https://lele-sf.github.io/intro-web-dev/coffee-shop/): A responsive layout for a coffee shop menu built using HTML and CSS.
+3. [Doggo-fetch](https://lele-sf.github.io/javascript-beginner/doggo-fetch/): A responsive layout for a coffee shop menu built using HTML and CSS.
 
 ## Getting Started
 
