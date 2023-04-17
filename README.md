@@ -1,11 +1,11 @@
 # Projects for JavaScript: From First Steps to Professional
 This repository contains the solutions for the following projects from the JavaScript: From First Steps to Professional course on Frontend Masters:
 
-1. [TicTacToe](https://lele-sf.github.io/javascript-beginner/tictactoe/): A simple blog website built using HTML and CSS.
+1. [TicTacToe](https://lele-sf.github.io/javascript-beginner/tictactoe/): This repository contains a JavaScript implementation of the classic game Tic Tac Toe. The game prompts the user to enter the names of two players, and then displays the names on the game board. Players take turns clicking on empty squares on the board to place their symbols. The game checks for a winner after each move, and displays an alert message if a player wins. The game code uses a simple algorithm to check for winning combinations.
 
-2. [Quiz.js](https://lele-sf.github.io/javascript-beginner/quiz-js/): A responsive layout for a newspaper website built using HTML and CSS.
+2. [Quiz.js](https://lele-sf.github.io/javascript-beginner/quiz-js/): The quiz.js file contains a quiz game that uses a set of predetermined facts with true or false answers. The facts are displayed one at a time, and the user must select the correct answer from a list of options. After the user selects an answer, the correct answer is displayed along with an explanation. The user's score is also tracked, and the game ends when all facts have been answered. The file contains functions to hide and show HTML elements, disable and enable buttons, and update the score display.
 
-3. [Doggo-fetch](https://lele-sf.github.io/javascript-beginner/doggo-fetch/): A responsive layout for a coffee shop menu built using HTML and CSS.
+3. [Doggo-fetch](https://lele-sf.github.io/javascript-beginner/doggo-fetch/): The code is for a dog breed quiz game that fetches random dog images from an API and generates multiple-choice questions based on the breed in the image. It includes functions to get random elements, shuffle arrays, and extract breed information from image URLs. The game also has a rendering function that creates buttons for the multiple-choice answers and checks if the selected answer is correct.
 
 ## Getting Started
 
